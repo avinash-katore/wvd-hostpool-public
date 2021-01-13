@@ -1,0 +1,1 @@
+# wvd-hostpool-public
